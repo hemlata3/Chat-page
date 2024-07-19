@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-image: url("https://preview.redd.it/3jfjc53fsyb61.jpg?width=640&crop=smart&auto=webp&s=003f69df91a1d37712f562ef9541982da31a307a");
+    background-size: cover;
+    height:800px;
+    width: 600px;
+    flex-direction: column;
+    color: white;
+    margin-block: 50px;
+    display: flex;
+}
+
+#j {
+    background-color: rgba(128, 128, 128, 0.556);
+    color: white;
+    margin-bottom: 30px;
+    height: 50px;
+    width: 600px; 
+    text-align: center;
+    margin-left: -10px;
+    font-size: 40px;
+
+}
+
+.b {
+    background-color: rgb(76, 162, 249);
+    color: white;
+    text-align: right;
+    margin: 7px;
+    border-radius: 15px 15px 0px 15px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+
+.c {
+    background-color: rgba(157, 145, 145, 0.667);
+    text-align: left;
+    color: white;
+    margin: 7px;
+    border-radius: 10px;
+    border-radius: 15px 15px 15px 0px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.s {
+    background-color: rgb(76, 162, 249);
+    color: white;
+    text-align: right;
+    margin: 7px;
+    border-radius: 10px;border-radius: 15px 15px 0px 15px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.d {
+    background-color:rgba(108, 103, 103, 0.88);
+    color: white;
+    text-align: left;
+    margin: 7px;
+    border-radius: 10px;
+    border-radius: 15px 15px 15px 0px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.e {
+    background-color: rgb(77, 162, 249);
+    color: white;
+    text-align: right;
+    margin: 7px;
+    border-radius: 10px;
+    border-radius: 15px 15px 0px 15px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.f{
+    background-color: rgba(103, 99, 99, 0.774);
+    color: white;
+    text-align: left;
+    margin: 7px;
+    border-radius: 10px;
+    border-radius: 15px 15px 15px 0px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.g {
+    background-color: rgb(77, 162, 250);
+    color: white;
+    text-align: right;
+    margin: 7px;
+    border-radius: 10px;
+    border-radius: 15px 15px 0px 15px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+ 
